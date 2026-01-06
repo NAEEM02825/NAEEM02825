@@ -97,6 +97,14 @@ Production-ready APIs with validation, pagination, and structured responses.
 🧠 AI & Developer Badges
 <p align="center"> <img src="https://img.shields.io/badge/AI%20Integration-Enabled-7A5CFF?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Automation-Expert-00C2FF?style=for-the-badge&logo=robotframework&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-Backend%20Specialist-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Freelancer-Available-28A745?style=for-the-badge&logo=freelancer&logoColor=white" /> </p>
 📈 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NAEEM02825&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/> <img src="https://streak-stats.demolab.com/?user=NAEEM02825&theme=tokyonight&hide_border=true&background=0D1117" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAEEM02825&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="140"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NAEEM02825&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=NAEEM02825&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAEEM02825&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+</p>
+
 💼 Hire Me / Work With Me
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Let’s%20Build%20Something%20Powerful%20Together&fontSize=26&fontColor=ffffff" /> </p> <p align="center"> 💼 <b>Hiring Managers:</b> Open for Full-Time & Remote Roles<br/> 🧑‍💻 <b>Clients:</b> Available for Freelance & Contract Projects </p> <p align="center"> <a href="mailto:mnaeem02825@gmail.com"> <img src="https://img.shields.io/badge/Email%20Me-Hire%20Now-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/NAEEM02825"> <img src="https://img.shields.io/badge/View%20Portfolio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> <p align="center"> <b>"I build reliable systems that businesses can trust."</b> </p>
