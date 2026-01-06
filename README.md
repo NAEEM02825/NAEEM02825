@@ -1,4 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Naeem%20Javed%20|%20Full%20Stack%20PHP%20Developer&fontSize=36&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
+</p>
 <h1 align="center">🚀 Muhammad Naeem Javed</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;PHP+Backend+Specialist;Freelancer+%7C+Remote+Ready;AI+%26+Automation+Enthusiast" />
