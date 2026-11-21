@@ -1,11 +1,3 @@
-<!--
-  GitHub Profile README — Muhammad Naeem Javed
-  Personal profile: github.com/NAEEM02825
-  Project workspace: github.com/naeem-techstudio
-  Repository inventory: 25 private repositories, based on screenshot dated 21 November 2026.
-  Project descriptions are intentionally limited to visible repository names and supplied project context.
--->
-
 <div align="center">
 
 <img width="100%" alt="Muhammad Naeem Javed — Full Stack Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123B64,100:0891B2&height=195&section=header&text=Muhammad%20Naeem%20Javed&fontSize=34&fontColor=FFFFFF&fontAlignY=37&desc=FULL%20STACK%20DEVELOPER%20%7C%20WEB%20APPLICATION%20ENGINEER&descSize=14&descAlignY=60&animation=fadeIn" />
@@ -21,7 +13,6 @@
 </p>
 
 <p>
-  <img alt="25 project repositories in workspace" src="https://img.shields.io/badge/Workspace%20Projects-25-0891B2?style=flat-square" />
   <img alt="Remote and onsite opportunities" src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Onsite-1D4ED8?style=flat-square" />
   <img alt="Freelance and contract projects" src="https://img.shields.io/badge/Projects-Freelance%20%26%20Contract-0F766E?style=flat-square" />
 </p>
@@ -83,92 +74,232 @@ My project workspace includes work across **water-brand websites, property platf
 
 ## Featured Work
 
-The following are selected projects from my development workspace. **Their repositories are currently private**, so these summaries describe the project scope without claiming public source-code access.
+A selection of websites, full-stack applications, and business systems developed across different project domains.
 
-| Project | What I worked on | Technologies / focus |
-|:--|:--|
-| **LoftySpace** | Construction/property website with reusable page sections and responsive frontend structure. | JavaScript, React/Vite, UI development |
-| **Stone Properties** | Property website structured around a React frontend and a Node.js/Express backend foundation. | React, Node.js, Express, component architecture |
-| **AquaFeeling** | Water-brand website with product presentation, brand assets, and responsive page layouts. | PHP, frontend UI, web deployment |
-| **AutoReach** | AI/social-media automation dashboard project, including the concepts of workflows and administrative reporting. | PHP, dashboards, automation, AI integration |
-| **Hyper Local Business Hub (FYP)** | Final-year project repository for a hyper-local business platform. | PHP, web application development |
-| **Business Dashboards** | Collection of dashboard projects for administrative, reporting, and business-management interfaces. | PHP, JavaScript, data-oriented UI |
+<table>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Overview</th>
+      <th align="left">Technology &amp; Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>LoftySpace</strong></td>
+      <td>Construction and property website with a responsive interface and reusable sections.</td>
+      <td>React, Vite, JavaScript, responsive UI</td>
+    </tr>
+    <tr>
+      <td><strong>Stone Properties</strong></td>
+      <td>Real estate web application with a component-based frontend and API backend foundation.</td>
+      <td>React, Node.js, Express, full-stack architecture</td>
+    </tr>
+    <tr>
+      <td><strong>AquaFeeling</strong></td>
+      <td>Water-brand website featuring products, custom brand assets, and responsive layouts.</td>
+      <td>PHP, frontend development, deployment</td>
+    </tr>
+    <tr>
+      <td><strong>AutoReach</strong></td>
+      <td>Social media automation platform focused on workflows and administrative reporting.</td>
+      <td>PHP, dashboards, automation, AI integration</td>
+    </tr>
+    <tr>
+      <td><strong>Hyper Local Business Hub</strong></td>
+      <td>Final-year project focused on a hyper-local business web platform.</td>
+      <td>PHP, web application development</td>
+    </tr>
+    <tr>
+      <td><strong>Business Dashboards</strong></td>
+      <td>Administrative, HR, analytics, and reporting interfaces for business use cases.</td>
+      <td>PHP, JavaScript, data-driven UI</td>
+    </tr>
+  </tbody>
+</table>
 
-**Project workspace:** [naeem-techstudio on GitHub](https://github.com/naeem-techstudio)  
-**Personal GitHub:** [NAEEM02825](https://github.com/NAEEM02825)
+**Explore more:** [Development Workspace](https://github.com/naeem-techstudio) · [Personal GitHub](https://github.com/NAEEM02825)
 
 ---
 
 ## Repository Portfolio
 
-<sub>Inventory based on the 25 repositories shown in the project-workspace screenshot on 21 November 2026. Repository names follow the GitHub listing. All were marked **Private** at the time of the screenshot. GitHub's automatic primary-language labels are intentionally excluded because they do not represent each project's complete tech stack.</sub>
-
 <details open>
 <summary><b>01 / Water & Beverage Websites — 9 projects</b></summary>
 
-| Repository | Project description |
-|:--|:--|
-| <code>aqua-plus</code> | Aqua Plus brand website |
-| <code>horizonwater</code> | Horizon Water website |
-| <code>aqua-clear</code> | Aqua Clear drinking-water website |
-| <code>aquaspring</code> | Aqua Spring brand website |
-| <code>aquafeeling</code> | AquaFeeling product and brand website |
-| <code>aquablue</code> | Aqua Blue water-brand website |
-| <code>blueh2o</code> | BlueH2O brand interface |
-| <code>freshh2o</code> | FreshH2O water-brand website |
-| <code>aqua</code> | Aqua web project |
-
+<table>
+  <thead>
+    <tr>
+      <th align="left">Repository</th>
+      <th align="left">Project description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>aqua-plus</code></td>
+      <td>Aqua Plus brand website</td>
+    </tr>
+    <tr>
+      <td><code>horizonwater</code></td>
+      <td>Horizon Water website</td>
+    </tr>
+    <tr>
+      <td><code>aqua-clear</code></td>
+      <td>Aqua Clear drinking-water website</td>
+    </tr>
+    <tr>
+      <td><code>aquaspring</code></td>
+      <td>Aqua Spring brand website</td>
+    </tr>
+    <tr>
+      <td><code>aquafeeling</code></td>
+      <td>AquaFeeling product and brand website</td>
+    </tr>
+    <tr>
+      <td><code>aquablue</code></td>
+      <td>Aqua Blue water-brand website</td>
+    </tr>
+    <tr>
+      <td><code>blueh2o</code></td>
+      <td>BlueH2O brand interface</td>
+    </tr>
+    <tr>
+      <td><code>freshh2o</code></td>
+      <td>FreshH2O water-brand website</td>
+    </tr>
+    <tr>
+      <td><code>aqua</code></td>
+      <td>Aqua web project</td>
+    </tr>
+  </tbody>
+</table>
 </details>
 
 <details open>
 <summary><b>02 / Real Estate & Construction — 3 projects</b></summary>
 
-| Repository | Project description |
-|:--|:--|
-| <code>loftyspace</code> | Construction/property website |
-| <code>stoneproperties</code> | Stone Properties web application |
-| <code>proprent</code> | Property/rental-oriented project |
-
+<table>
+  <thead>
+    <tr>
+      <th align="left">Repository</th>
+      <th align="left">Project description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>loftyspace</code></td>
+      <td>Construction/property website</td>
+    </tr>
+    <tr>
+      <td><code>stoneproperties</code></td>
+      <td>Stone Properties web application</td>
+    </tr>
+    <tr>
+      <td><code>proprent</code></td>
+      <td>Property/rental-oriented project</td>
+    </tr>
+  </tbody>
+</table>
 </details>
 
 <details>
 <summary><b>03 / Business Applications & Other Sites — 8 projects</b></summary>
 
-| Repository | Project description |
-|:--|:--|
-| <code>autoreach_app_fyp</code> | AutoReach social-media automation project |
-| <code>hyper_local_business_hub_FYP</code> | Hyper-local business hub final-year project |
-| <code>phpledger</code> | Ledger/accounting-oriented PHP project |
-| <code>employee_task_manager</code> | Employee/task-management application |
-| <code>LMS</code> | Learning-management-system project |
-| <code>pos_system</code> | Point-of-sale system project |
-| <code>platinum</code> | PHP application repository |
-| <code>sam-s</code> | Sam's beauty-salon web design project |
-
+<table>
+  <thead>
+    <tr>
+      <th align="left">Repository</th>
+      <th align="left">Project description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>autoreach_app_fyp</code></td>
+      <td>AutoReach social-media automation project</td>
+    </tr>
+    <tr>
+      <td><code>hyper_local_business_hub_FYP</code></td>
+      <td>Hyper-local business hub final-year project</td>
+    </tr>
+    <tr>
+      <td><code>phpledger</code></td>
+      <td>Ledger/accounting-oriented PHP project</td>
+    </tr>
+    <tr>
+      <td><code>employee_task_manager</code></td>
+      <td>Employee/task-management application</td>
+    </tr>
+    <tr>
+      <td><code>LMS</code></td>
+      <td>Learning-management-system project</td>
+    </tr>
+    <tr>
+      <td><code>pos_system</code></td>
+      <td>Point-of-sale system project</td>
+    </tr>
+    <tr>
+      <td><code>platinum</code></td>
+      <td>PHP application repository</td>
+    </tr>
+    <tr>
+      <td><code>sam-s</code></td>
+      <td>Sam's beauty-salon web design project</td>
+    </tr>
+  </tbody>
+</table>
 </details>
 
 <details>
 <summary><b>04 / Dashboards & Admin Interfaces — 4 projects</b></summary>
 
-| Repository | Project description |
-|:--|:--|
-| <code>dashboard_panal_D</code> | Datalytics dashboard interface |
-| <code>dashboard_craftH_app</code> | CraftH dashboard/application |
-| <code>dashboard_my_dash_pro</code> | My Dash Pro dashboard |
-| <code>dashboard_bixi_hrm</code> | Bixisoft HRM dashboard |
-
+<table>
+  <thead>
+    <tr>
+      <th align="left">Repository</th>
+      <th align="left">Project description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>dashboard_panal_D</code></td>
+      <td>Datalytics dashboard interface</td>
+    </tr>
+    <tr>
+      <td><code>dashboard_craftH_app</code></td>
+      <td>CraftH dashboard/application</td>
+    </tr>
+    <tr>
+      <td><code>dashboard_my_dash_pro</code></td>
+      <td>My Dash Pro dashboard</td>
+    </tr>
+    <tr>
+      <td><code>dashboard_bixi_hrm</code></td>
+      <td>Bixisoft HRM dashboard</td>
+    </tr>
+  </tbody>
+</table>
 </details>
 
 <details>
 <summary><b>05 / Practice & Demonstration — 1 project</b></summary>
 
-| Repository | Project description |
-|:--|:--|
-| <code>demo-repository</code> | Demonstration repository for web development |
-
+<table>
+  <thead>
+    <tr>
+      <th align="left">Repository</th>
+      <th align="left">Project description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>demo-repository</code></td>
+      <td>Demonstration repository for web development</td>
+    </tr>
+  </tbody>
+</table>
 </details>
 
-> **Repository access:** These projects are listed to demonstrate the breadth of my work. Private repositories cannot be opened by visitors without access; selected implementation details or walkthroughs may be discussed on request.
+For project details, technical discussions, or walkthroughs, feel free to get in touch.
 
 ---
 
